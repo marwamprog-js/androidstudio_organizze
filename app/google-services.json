@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079771874715",
+    "project_id": "organizze-53f27",
+    "storage_bucket": "organizze-53f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079771874715:android:7b3c7025add2fc870fcd3e",
+        "android_client_info": {
+          "package_name": "com.maltatec.organizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079771874715-l62t3ekp66cnrfa7ihdkdcgme79ega2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maltatec.organizze",
+            "certificate_hash": "9e22ecbf8dbe97a158d9dd40415bb46dc4b66833"
+          }
+        },
+        {
+          "client_id": "1079771874715-rmnlt09qj64e6b45u6gbu5mgnb97623p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50-Dj0GA5g0m35Z2KXoOX-R-dDH3-63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079771874715-rmnlt09qj64e6b45u6gbu5mgnb97623p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
